@@ -1,1 +1,1 @@
-# Expense-Recorder
+This is a program I created to make splitting and recording expenses easy. This can be useful for travel groups, friends buying stuff or even small class expenses. Please feel free to suggest improvements. I am still working on the code to make it as user-friendly as possible. 
