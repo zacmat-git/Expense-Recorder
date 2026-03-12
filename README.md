@@ -1,1 +1,1 @@
-This is a program I created to make splitting and recording expenses easy. This can be useful for travel groups, friends buying stuff or even small class expenses. Please feel free to suggest improvements. I am still working on the code to make it as user-friendly as possible. 
+Hi! I have improved the splitter a few times. This time, I have made a user-frindly, interactive GUI version (V3) using the customtkinter library. I have also added exporting features as Excel(.xlsx) and CSV(.csv) with the help of the pandas library. Be sure to suggest any further improvements.
